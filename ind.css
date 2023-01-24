@@ -1,0 +1,125 @@
+header{
+    font-family: 'Unbounded', cursive;
+    display: flex;
+    justify-content: space-between;
+    
+    background-color: cornsilk;
+}
+h4{
+    margin-left: 112px;
+
+margin-top: 11px;
+}
+.NAV{
+    margin-left: 330px;
+    
+    margin-top: -15px;
+    word-spacing: 15px;
+    
+}
+nav li{
+   text-decoration: none;
+}
+ul a{
+    text-decoration: none;
+    color: black;
+    text-align: end;
+}
+ul a:hover{
+    color: green;
+   font-style: italic;
+    
+}
+h2{
+    text-align: center;
+    color: cadetblue;
+}
+hr{
+    height: 5px;
+    color: aquamarine;
+}
+#Myphoto{
+    font-family: 'Unbounded', cursive;
+    font-size: 20px;
+    font-style: italic;
+    
+    display: flex;
+    flex-direction: row-reverse;
+
+border-top: 4px solid black;
+border-left: 4px solid black;
+border-right: 4px solid black;
+border-bottom: 4px solid black;
+border-radius: 4px;
+      height: 400px;
+      background-attachment:scroll;
+      background-repeat: no-repeat;
+      background-image: url(https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif);
+      background-size:700px;
+}
+hr{
+    border-radius: 4px;
+    background-color: black;
+}
+#myphoto{
+    border-radius: 50px;
+   
+}
+
+
+.pl{
+    display: flex;
+    justify-content: center;
+}
+
+.pl a{
+    padding-right: 39px;
+}
+h3{
+    color: darkseagreen;
+text-align: center;
+
+}
+.Languages{
+    background-image: url(http://33.media.tumblr.com/be8186706fe29b2b2c71099af26c3b0d/tumblr_nhb5heby6Z1twrbr9o1_r1_500.gif);
+}
+.connect h3{
+    font-family: 'Unbounded', cursive;
+    color: black;
+    text-align: start;
+}
+li{
+    list-style: none;
+}
+.social{
+    font-family: 'Unbounded', cursive;
+display: flex;
+}
+.social a{
+
+    padding-left: 20px;
+}
+#utube h3{
+    font-family: 'Unbounded', cursive;
+    text-align: start;
+}
+.f{
+    font-family: 'Unbounded', cursive;
+    display: flex;
+justify-content: center;
+background-color: aliceblue;
+color: black;
+font-size: unset;
+}
+.f h2{
+    padding-right: 50px;
+    
+}
+.f p{
+    padding-right: 50px;
+}
+
+body{
+    background-color: aliceblue;
+    font-family: 'Unbounded', cursive;
+}
